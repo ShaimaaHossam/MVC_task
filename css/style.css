@@ -1,0 +1,16 @@
+#main__view{
+    text-align: center;
+}
+#main__img{
+    width: 250px;
+}
+.clicks{
+    color: red;
+}
+#list__view{
+    list-style: none;
+}
+#list__view > li > img{
+    width: 100px;
+    height: 100px;
+}
